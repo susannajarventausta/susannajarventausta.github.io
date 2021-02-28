@@ -1,0 +1,22 @@
+{
+  "name": "frontend-course",
+  "version": "1.0.0",
+  "description": "frontend course repo",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SusannaJarventausta/frontend-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusannaJarventausta/frontend-course/issues"
+  },
+  "homepage": "https://github.com/SusannaJarventausta/frontend-course#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
