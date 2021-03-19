@@ -25,4 +25,4 @@ Now you can find the project running at [localhost:1234](http://localhost:1234)
 
 ## Website
 
-You can also find the project already deployed to the Web [here](susannajarventausta.github.io).
+You can also find the project already deployed to the Web [here](https://susannajarventausta.github.io/dist/index.html).
