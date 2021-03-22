@@ -25,6 +25,10 @@ npm start
 
 Now you can find the project running at [localhost:1234](http://localhost:1234).
 
+## Demo
+
+I have made a quick [demo](https://youtu.be/pYPx7GlcSvs) of installing and running the project.
+
 ## Website
 
 You can also find the project already deployed to the Web [here](https://susannajarventausta.github.io/dist/index.html).
