@@ -163,6 +163,7 @@ main {
   padding: 0.5rem 1rem;
   border: 0;
   margin-bottom: 0.3rem;
+  background: rgba(lighten($color: $primary-color, $amount: 3), 0.5);
 
   &:hover {
     background: $secondary-color;

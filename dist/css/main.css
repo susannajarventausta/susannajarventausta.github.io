@@ -54,17 +54,15 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url(../img/portrait.jpg);
       border-radius: 50%;
-      border: solid 3px #eece1a;
-      background-size: cover; }
+      border: solid 4px #d98da1; }
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
     transition: all 0.5s ease-out; }
     .menu .nav-item.show {
       transform: translate3d(0, 0, 0); }
     .menu .nav-item.current > a {
-      color: #eece1a; }
+      color: #d98da1; }
   .menu .nav-link {
     display: inline-block;
     position: relative;
@@ -76,7 +74,7 @@
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
-      color: #eece1a; }
+      color: #d98da1; }
 
 .nav-item:nth-child(1) {
   transition-delay: 0.1s; }
@@ -140,7 +138,7 @@ header {
   width: 100%; }
 
 .text-secondary {
-  color: #eece1a; }
+  color: #d98da1; }
 
 main {
   padding: 4rem;
@@ -150,7 +148,7 @@ main {
     main .icons a {
       padding: 0.4rem; }
       main .icons a:hover {
-        color: #eece1a;
+        color: #d98da1;
         transition: all 0.5s ease-out; }
   main#home {
     overflow: hidden; }
@@ -166,7 +164,7 @@ main {
     grid-area: bioimage;
     margin: auto;
     border-radius: 50%;
-    border: #eece1a 3px solid;
+    border: #d98da1 3px solid;
     width: 250px;
     height: 250px; }
   .about-info .bio {
@@ -181,7 +179,7 @@ main {
   .about-info .job {
     background: #515151;
     padding: 0.5rem;
-    border-bottom: #eece1a 5px solid; }
+    border-bottom: #d98da1 5px solid; }
 
 .projects {
   display: grid;
@@ -192,7 +190,7 @@ main {
     border: 3px #fff solid; }
     .projects img:hover {
       opacity: 0.5;
-      border-color: #eece1a;
+      border-color: #d98da1;
       transition: all 0.5s ease-out; }
 
 .boxes {
@@ -209,7 +207,7 @@ main {
     transition: all 0.5s ease-out; }
     .boxes div:hover {
       padding: 0.5rem 1.5rem;
-      background: #eece1a;
+      background: #d98da1;
       color: #000; }
       .boxes div:hover span {
         color: #000; }
@@ -218,9 +216,10 @@ main {
   display: block;
   padding: 0.5rem 1rem;
   border: 0;
-  margin-bottom: 0.3rem; }
+  margin-bottom: 0.3rem;
+  background: rgba(76, 76, 76, 0.5); }
   .btn:hover, .btn-dark:hover, .btn-light:hover {
-    background: #eece1a;
+    background: #d98da1;
     color: #000; }
 
 .btn-dark {

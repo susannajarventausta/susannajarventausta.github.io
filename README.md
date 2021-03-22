@@ -1,7 +1,9 @@
 # Mordern portfolio
 
 This project was created for the university course\
-Software Development Skills Frontend 2021\
+Software Development Skills Frontend 2021.\
+The project is not to be taken seriously as it is a\
+website for my dog.\
 \
 Primary technologies are NodeJS and Sass. The project was\
 created following Responsive Portfolio Website tutorial by\
